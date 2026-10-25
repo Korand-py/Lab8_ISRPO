@@ -1,0 +1,14 @@
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\bin\Debug\net10.0\lab8_O_G.exe
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\bin\Debug\net10.0\lab8_O_G.deps.json
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\bin\Debug\net10.0\lab8_O_G.runtimeconfig.json
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\bin\Debug\net10.0\lab8_O_G.dll
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\bin\Debug\net10.0\lab8_O_G.pdb
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.AssemblyInfoInputs.cache
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.AssemblyInfo.cs
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.csproj.CoreCompileInputs.cache
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.dll
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\refint\lab8_O_G.dll
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.pdb
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\lab8_O_G.genruntimeconfig.cache
+C:\Dev\Projects\INSTRUMENTAL\lab8_O_G\obj\Debug\net10.0\ref\lab8_O_G.dll
